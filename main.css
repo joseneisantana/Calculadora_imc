@@ -1,0 +1,41 @@
+body{
+    background-color: rgba(221, 227, 235, 0.494);
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+form{
+    margin-top: 50px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    border: solid 1px black;
+    align-items: center;
+    background-color: aqua;
+}
+h1{
+    font-size: 40px;
+}
+form p{
+    margin: 10px;
+    padding: 40px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.c-resultado {
+    background-color: aquamarine;
+    font-size: 20px;
+    text-align: center;
+    
+      
+    
+    
+}
+p{
+    margin: 10PX;
+    padding: 10PX;
+}
